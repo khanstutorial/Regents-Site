@@ -86,7 +86,7 @@ def cityGeneration():
                      "Rego-Park","Richmond-Hill","Rochdale","Rosedale","Saint-Albans","Soundview","South-Jamaica",
                      "South-Ozone-Park","South-Richmond-Hill","Springfield-Gardens","Sunnyside-Gardens","Sunnyside",
                      "Sunset-Park","Unionport","Upper-East-Side","Utopia","Van-Nest","West-Farms","Westchester-Square",
-                     "Whitestone","Windsor-Terrace","Woodhaven","Woodside"]
+                     "Whitestone","Windsor-Terrace","Woodhaven","Woodside","Sutphin","Jamaica","Bronx","Brooklyn"]
     for x in neighborhoods:
         generateIndex(x)
     return
